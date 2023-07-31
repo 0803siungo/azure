@@ -3035,11 +3035,11 @@
                 <a href="https://situsgacor89.azurefd.net/">Slot Gacor</a>
               </li>
               <li data-active="false">
-                <a href="https://gapura88.com/?ref=gapura88" class="yellow-btn-bordered"
+                <a href="https://gapura88.org/?ref=gapura88" class="yellow-btn-bordered"
                   >Masuk</a
                 >
-                <a href="https://gapura88.com/?ref=gapura88" class="yellow-btn">Daftar</a>
-                <a href="https://gapura88.com/?ref=gapura88" class="yellow-btn-bordered"
+                <a href="https://gapura88.org/?ref=gapura88" class="yellow-btn">Daftar</a>
+                <a href="https://gapura88.org/?ref=gapura88" class="yellow-btn-bordered"
                   >Promosi</a
                 >
                 <a href="https://gapura88.info/" class="yellow-btn-bordered"
@@ -3063,7 +3063,7 @@
       </a>
       <div class="sticky-footer">
         <div class="footer-menu">
-          <a href="https://gapura88.com/?ref=gapura88">
+          <a href="https://gapura88.org/?ref=gapura88">
             <div class="icon">
               <amp-img
                 src="./assets/images/icon-masuk-gapura88.webp"
@@ -3077,7 +3077,7 @@
           </a>
         </div>
         <div class="footer-menu">
-          <a href="https://gapura88.com/?ref=gapura88">
+          <a href="https://gapura88.org/?ref=gapura88">
             <div class="icon">
               <amp-img
                 src="./assets/images/icon-daftar-gapura88.webp"
@@ -3091,7 +3091,7 @@
           </a>
         </div>
         <div class="footer-menu">
-          <a href="https://gapura88.com/?ref=gapura88">
+          <a href="https://gapura88.org/?ref=gapura88">
             <div class="icon no-text">
               <amp-img
                 src="./assets/images/icon-chip-gapura88.webp"
@@ -3104,7 +3104,7 @@
           </a>
         </div>
         <div class="footer-menu">
-          <a href="https://gapura88.com/?ref=gapura88">
+          <a href="https://gapura88.org/?ref=gapura88">
             <div class="icon">
               <amp-img
                 src="./assets/images/icon-promotion-gapura88.webp"
@@ -3134,7 +3134,7 @@
       </div>
     </header>
     <div class="home-banner">
-      <a href="https://gapura88.com/?ref=gapura88" class="display-desktop">
+      <a href="https://gapura88.org/?ref=gapura88" class="display-desktop">
         <amp-img
           width="1920"
           height="613"
@@ -3143,7 +3143,7 @@
           alt="Gapura88 Situs Slot Gacor"
         ></amp-img>
       </a>
-      <a href="https://gapura88.com/?ref=gapura88" class="display-mobile">
+      <a href="https://gapura88.org/?ref=gapura88" class="display-mobile">
         <amp-img
           width="937"
           height="299"
@@ -3178,10 +3178,10 @@
                     online gampang menang di Gapura88!
                   </p>
                   <p style="margin-top: 30px">
-                    <a href="https://gapura88.com/?ref=gapura88" class="yellow-btn-bordered"
+                    <a href="https://gapura88.org/?ref=gapura88" class="yellow-btn-bordered"
                       >MASUK</a
                     >
-                    <a href="https://gapura88.com/?ref=gapura88" class="yellow-btn"
+                    <a href="https://gapura88.org/?ref=gapura88" class="yellow-btn"
                       >DAFTAR</a
                     >
                     <a href="https://gapura88.info/?ref=gapura88" class="yellow-btn-bordered"
@@ -3334,7 +3334,7 @@
                   </p>
                 </div>
                 <div class="link">
-                  <a href="https://gapura88.com/?ref=gapura88">LIHAT SEMUA</a>
+                  <a href="https://gapura88.org/?ref=gapura88">LIHAT SEMUA</a>
                 </div>
               </div>
               <div class="thumbnail-list">
