@@ -15,14 +15,17 @@
       custom-element="amp-analytics"
       src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"
     ></script>
-    <meta name="google-site-verification" content="72k-YC1imIPRQCwpriZWkOTAgbeV1f0Co_5GmwNUbzg" />
+    <meta
+      name="google-site-verification"
+      content="72k-YC1imIPRQCwpriZWkOTAgbeV1f0Co_5GmwNUbzg"
+    />
     <!-- Default -->
     <title>
-      GAPURA88: Situs Gacor Terbaru Mudah Jackpot Tahun 2023
+      GAPURA88: Situs Slot Gacor 2023 Terbaru Mudah Jackpot Tahun Ini
     </title>
     <meta
       name="description"
-      content="GAPURA88 situs slot gacor judi online terbaru mudah jackpot tahun 2023 gampang menang kumpulan provider pragmatic play slot online pgsoft servis terbaik."
+      content="GAPURA88 kumpulan situs judi slot gacor online 2023 terbaru mudah jackpot tahun ini gampang menang dengan provider pragmatic play slot online pgsoft terbaik."
     />
     <meta
       name="keywords"
@@ -34,6 +37,11 @@
       type="image/x-icon"
     />
     <link href="https://situsgacor89.azurefd.net/" rel="canonical" />
+    <link
+      rel="alternate"
+      hreflang="id"
+      href="https://situsgacor89.azurefd.net/"
+    />
     <!-- Meta OG -->
     <meta
       property="og:image"
@@ -41,11 +49,11 @@
     />
     <meta
       property="og:title"
-      content="GAPURA88: Situs Gacor Terbaru Mudah Jackpot Tahun 2023"
+      content="GAPURA88: Situs Slot Gacor 2023 Terbaru Mudah Jackpot Tahun Ini"
     />
     <meta
       property="og:description"
-      content="GAPURA88 situs slot gacor judi online terbaru mudah jackpot tahun 2023 gampang menang kumpulan provider pragmatic play slot online pgsoft servis terbaik."
+      content="GAPURA88 kumpulan situs judi slot gacor online 2023 terbaru mudah jackpot tahun ini gampang menang dengan provider pragmatic play slot online pgsoft terbaik."
     />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://situsgacor89.azurefd.net/" />
@@ -73,11 +81,11 @@
     <meta name="twitter:card" content="summary" />
     <meta
       name="twitter:title"
-      content="GAPURA88: Situs Gacor Terbaru Mudah Jackpot Tahun 2023"
+      content="GAPURA88: Situs Slot Gacor 2023 Terbaru Mudah Jackpot Tahun Ini"
     />
     <meta
       name="twitter:description"
-      content="GAPURA88 situs slot gacor judi online terbaru mudah jackpot tahun 2023 gampang menang kumpulan provider pragmatic play slot online pgsoft servis terbaik."
+      content="GAPURA88 kumpulan situs judi slot gacor online 2023 terbaru mudah jackpot tahun ini gampang menang dengan provider pragmatic play slot online pgsoft terbaik."
     />
     <meta
       name="twitter:image:src"
@@ -2942,8 +2950,8 @@
         "@type": "Game",
         "name": "Slot Gacor GAPURA88",
         "author": { "@type": "Person", "name": "GAPURA88" },
-        "headline": "GAPURA88: Situs Gacor Terbaru Mudah Jackpot Tahun 2023",
-        "description": "GAPURA88 situs slot gacor judi online terbaru mudah jackpot tahun 2023 gampang menang kumpulan provider pragmatic play slot online pgsoft servis terbaik.",
+        "headline": "GAPURA88: Situs Slot Gacor 2023 Terbaru Mudah Jackpot Tahun Ini",
+        "description": "GAPURA88 kumpulan situs judi slot gacor online 2023 terbaru mudah jackpot tahun ini gampang menang dengan provider pragmatic play slot online pgsoft terbaik.",
         "keywords": [
           "gapura88, hedonslot, hedon slot, hedon bet, hedonbet, hedon88, situs gacor, slot, slot gacor, slot online, raja slot, situs slot, judi slot, pragmatic play, slot gacor 2023, slot gacor maxwin, situs slot gacor, situs slot online, judi slot online, slot gampang jackpot, slot lapak pusat, judi lapak pusat, pragmatic lapak pusat, slot gacor gampang menang, slot gacor hari ini, slot online lapak pusat, slot gampang menang jackpot"
         ],
@@ -3035,14 +3043,24 @@
                 <a href="https://situsgacor89.azurefd.net/">Slot Gacor</a>
               </li>
               <li data-active="false">
-                <a href="https://gapura88.org/?ref=gapura88" class="yellow-btn-bordered"
+                <a
+                  href="https://penkatali.org/link-gapura88/"
+                  class="yellow-btn-bordered"
                   >Masuk</a
                 >
-                <a href="https://gapura88.org/?ref=gapura88" class="yellow-btn">Daftar</a>
-                <a href="https://gapura88.org/?ref=gapura88" class="yellow-btn-bordered"
+                <a
+                  href="https://penkatali.org/link-gapura88/"
+                  class="yellow-btn"
+                  >Daftar</a
+                >
+                <a
+                  href="https://penkatali.org/link-gapura88/"
+                  class="yellow-btn-bordered"
                   >Promosi</a
                 >
-                <a href="https://gapura88.info/" class="yellow-btn-bordered"
+                <a
+                  href="https://penkatali.org/link-gapura88/"
+                  class="yellow-btn-bordered"
                   >Link Alternatif</a
                 >
               </li>
@@ -3063,7 +3081,7 @@
       </a>
       <div class="sticky-footer">
         <div class="footer-menu">
-          <a href="https://gapura88.org/?ref=gapura88">
+          <a href="https://penkatali.org/link-gapura88/">
             <div class="icon">
               <amp-img
                 src="./assets/images/icon-masuk-gapura88.webp"
@@ -3077,7 +3095,7 @@
           </a>
         </div>
         <div class="footer-menu">
-          <a href="https://gapura88.org/?ref=gapura88">
+          <a href="https://penkatali.org/link-gapura88/">
             <div class="icon">
               <amp-img
                 src="./assets/images/icon-daftar-gapura88.webp"
@@ -3091,7 +3109,7 @@
           </a>
         </div>
         <div class="footer-menu">
-          <a href="https://gapura88.org/?ref=gapura88">
+          <a href="https://penkatali.org/link-gapura88/">
             <div class="icon no-text">
               <amp-img
                 src="./assets/images/icon-chip-gapura88.webp"
@@ -3104,7 +3122,7 @@
           </a>
         </div>
         <div class="footer-menu">
-          <a href="https://gapura88.org/?ref=gapura88">
+          <a href="https://penkatali.org/link-gapura88/">
             <div class="icon">
               <amp-img
                 src="./assets/images/icon-promotion-gapura88.webp"
@@ -3134,7 +3152,7 @@
       </div>
     </header>
     <div class="home-banner">
-      <a href="https://gapura88.org/?ref=gapura88" class="display-desktop">
+      <a href="https://penkatali.org/link-gapura88/" class="display-desktop">
         <amp-img
           width="1920"
           height="613"
@@ -3143,7 +3161,7 @@
           alt="Gapura88 Situs Slot Gacor"
         ></amp-img>
       </a>
-      <a href="https://gapura88.org/?ref=gapura88" class="display-mobile">
+      <a href="https://penkatali.org/link-gapura88/" class="display-mobile">
         <amp-img
           width="937"
           height="299"
@@ -3178,13 +3196,19 @@
                     online gampang menang di Gapura88!
                   </p>
                   <p style="margin-top: 30px">
-                    <a href="https://gapura88.org/?ref=gapura88" class="yellow-btn-bordered"
+                    <a
+                      href="https://penkatali.org/link-gapura88/"
+                      class="yellow-btn-bordered"
                       >MASUK</a
                     >
-                    <a href="https://gapura88.org/?ref=gapura88" class="yellow-btn"
+                    <a
+                      href="https://penkatali.org/link-gapura88/"
+                      class="yellow-btn"
                       >DAFTAR</a
                     >
-                    <a href="https://gapura88.info/?ref=gapura88" class="yellow-btn-bordered"
+                    <a
+                      href="https://penkatali.org/link-gapura88/"
+                      class="yellow-btn-bordered"
                       >LINK 2</a
                     >
                   </p>
@@ -3334,7 +3358,7 @@
                   </p>
                 </div>
                 <div class="link">
-                  <a href="https://gapura88.org/?ref=gapura88">LIHAT SEMUA</a>
+                  <a href="https://penkatali.org/link-gapura88/">LIHAT SEMUA</a>
                 </div>
               </div>
               <div class="thumbnail-list">
@@ -3826,7 +3850,7 @@
         <div class="copyright">Copyright ©2023 - GAPURA88</div>
       </div>
     </footer>
-    <a href="#" target="_blank" class="wabutton">
+    <a href="https://rebrand.ly/wagapura88" target="_blank" class="wabutton">
       <amp-img
         src="./assets/images/logo-whatsapp-gapura88.webp"
         width="40"
