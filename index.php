@@ -19,6 +19,7 @@
       name="google-site-verification"
       content="72k-YC1imIPRQCwpriZWkOTAgbeV1f0Co_5GmwNUbzg"
     />
+    <meta name="google-site-verification" content="yrsDdt_tCMBDsTb8GrzIhFDwLiOoQZd3Lz_H2-4fl3o" />
     <!-- Default -->
     <title>
       GAPURA88: Situs Slot Gacor 2023 Terbaru Mudah Jackpot Tahun Ini
